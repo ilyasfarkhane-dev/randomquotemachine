@@ -1,0 +1,18 @@
+.quoteBox{
+    background: white;
+    border-radius: 5px;
+}
+.authorSection{
+    padding-right: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.aut{
+    text-align: end;
+}
+.bi-quote{
+    font-size: 40px;
+}
+.twit{
+    margin-left: 20px;
+}
