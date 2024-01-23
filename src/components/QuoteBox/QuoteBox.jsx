@@ -4,11 +4,7 @@ import axios from 'axios';
 
 export default function QuoteBox() {
 
-//   const quotes = [
-//     {id:1,author:"Kevin Kruse",quote:"Life isn’t about getting and having, it’s about giving and being."},
-//     {id:2,author:"Napoleon Hill",quote:"Whatever the mind of man can conceive and believe, it can achieve."},
-//     {id:3,author:"Albert Einstein",quote:"Strive not to be a success, but rather to be of value."}
-//   ];
+
 
   const [currentQuote, setCurrentQuote] = useState({
     id: null,
